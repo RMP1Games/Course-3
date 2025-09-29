@@ -1,0 +1,6 @@
+@lesson2_17_09_25_HostAddress = http://localhost:5038
+
+GET {{lesson2_17_09_25_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
