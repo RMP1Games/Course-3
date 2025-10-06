@@ -11,9 +11,9 @@ namespace lesson2_17_09_25.Models
         public bool IsRepeatable { get; set; }
         public TestType Type { get; set; }
         //public AnswerType AnswerType { get; set; } не нужен
-        public DateTimeOffset CreatedAt { get; set; }
-        public DateTimeOffset PublishedAt { get; set; }
-        public DateTimeOffset Deadline { get; set; }
+        public DateTimeOffset CreatedAt { get; set; } = DateTimeOffset.UtcNow;
+        public DateTimeOffset PublishedAt { get; set; } = DateTimeOffset.UtcNow;
+        public DateTimeOffset Deadline { get; set; } = DateTimeOffset.UtcNow;
         public int DurationMinutes { get; set; }
         public bool IsPublic { get; set; }
         public int PassingScore { get; set; }

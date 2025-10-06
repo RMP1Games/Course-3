@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "iLAJltDoQDmPktyQyU87zBFDRH4mveITgb/Jmfz6wkw=",
-  "Source": "lesson2_17_09_25",
-  "BasePath": "_content/lesson2_17_09_25",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"iLAJltDoQDmPktyQyU87zBFDRH4mveITgb/Jmfz6wkw=","Source":"lesson2_17_09_25","BasePath":"_content/lesson2_17_09_25","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

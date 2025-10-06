@@ -3,8 +3,8 @@
     public class Attempt
     {
         public int Id { get; set; }
-        public DateTimeOffset StartedAt { get; set; }
-        public DateTimeOffset EndedAt { get; set; }
+        public DateTimeOffset StartedAt { get; set; } = DateTimeOffset.UtcNow;
+        public DateTimeOffset EndedAt { get; set; } = DateTimeOffset.UtcNow;
         public int Score { get; set; }
         public int TestId { get; set; }
         public Test Test { get; set; }

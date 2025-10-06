@@ -1,4 +1,6 @@
-﻿namespace lesson2_17_09_25.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace lesson2_17_09_25.Models
 {
     public class UserAttemptAnswer
     {
@@ -9,7 +11,8 @@
         public Attempt Attempt { get; set; }
         public int QuestionId { get; set; }
         public Question Question { get; set; }
-        public List<UserSelectedOption>? UserSelectOptions { get; set; }
+        //[NotMapped]
+        public List<UserSelectedOption>? UserSelectedOptions { get; set; }
         public UserTextAnwer? UserTextAnwer { get; set; }
     }
 }

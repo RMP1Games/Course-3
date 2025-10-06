@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace lesson2_17_09_25.Models
 {
@@ -10,6 +11,7 @@ namespace lesson2_17_09_25.Models
         public Direction Description { get; set; }
         public int ProjectId { get; set; }
         public Project Project { get; set; }
+        [NotMapped]
         public List<Student> Students { get; set; }
         public int CourseId { get; set; }
         public Course Course { get; set; }

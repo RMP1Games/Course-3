@@ -27,7 +27,8 @@ namespace lesson2_17_09_25
                 e.Property(x => x.Email).IsRequired();
                 e.Property(x => x.FirstName).IsRequired();
                 e.Property(x => x.LastName).IsRequired();
-                e.Property(x => x.CreatedAt).HasDefaultValue("CURRENT_TIMESTAMP");
+                e.Property(x => x.CreatedAt).HasConversion<string>();
+                e.Property(x => x.CreatedAt).HasDefaultValue(DateTimeOffset.UtcNow);
 
                 e.HasOne(x => x.Student)
                     .WithOne(s => s.User)
@@ -109,7 +110,8 @@ namespace lesson2_17_09_25
                 e.Property(x => x.Descripton).IsRequired();
                 e.Property(x => x.IsRepeatable).HasDefaultValue(false);
                 e.Property(x => x.Type).HasConversion<string>();
-                e.Property(x => x.CreatedAt).HasDefaultValue("CURRENT_TIMESTAMP");
+                e.Property(x => x.CreatedAt).HasConversion<string>();
+                e.Property(x => x.CreatedAt).HasDefaultValue(DateTimeOffset.UtcNow);
                 e.Property(x => x.PublishedAt).IsRequired();
                 e.Property(x => x.Deadline).IsRequired();
                 e.Property(x => x.IsPublic).HasDefaultValue(false);
@@ -169,7 +171,8 @@ namespace lesson2_17_09_25
             modelBuilder.Entity<Attempt>(e =>
             {
                 e.HasKey(x => x.Id);
-                e.Property(x => x.StartedAt).HasDefaultValue("CURRENT_TIMESTAMP");
+                e.Property(x => x.StartedAt).HasConversion<string>();
+                e.Property(x => x.StartedAt).HasDefaultValue(DateTimeOffset.UtcNow);
                 e.Property(x => x.TestId).IsRequired();
                 e.Property(x => x.StudentId).IsRequired();
 
@@ -207,11 +210,11 @@ namespace lesson2_17_09_25
             modelBuilder.Entity<UserSelectedOption>(e =>
             {
                 e.HasKey(x => x.Id);
-                e.Property(x => x.UserAttemptAnswer).IsRequired();
+                e.Property(x => x.UserAttemptAnswerId).IsRequired();
                 e.Property(x => x.AswerId).IsRequired();
 
                 e.HasOne(x => x.UserAttemptAnswer)
-                    .WithMany(t => t.UserSelectOptions)
+                    .WithMany(t => t.UserSelectedOptions)
                     .HasForeignKey(t => t.UserAttemptAnswerId)
                     .OnDelete(DeleteBehavior.Cascade);
 

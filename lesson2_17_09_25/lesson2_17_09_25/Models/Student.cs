@@ -1,4 +1,6 @@
-﻿namespace lesson2_17_09_25.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace lesson2_17_09_25.Models
 {
     public class Student
     {
@@ -9,6 +11,7 @@
         public User User { get; set; }
         public int GroupId { get; set; }
         public Group Group { get; set; }
+        [NotMapped]
         public List<Group> Groups { get; set; }
         public List<Test> Tests { get; set; }
         public List<Attempt> Attempts { get; set; }
