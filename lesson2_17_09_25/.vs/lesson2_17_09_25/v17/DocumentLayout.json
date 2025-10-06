@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +35,32 @@
       "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\usertextanwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\usertextanwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\lesson2_17_09_25.csproj|solutionrelative:lesson2_17_09_25\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +75,160 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\AppDbContext.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\AppDbContext.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAALkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:23:05.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserSelectedOption.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\UserSelectedOption.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\UserSelectedOption.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\UserSelectedOption.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\UserSelectedOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:13:57.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserTextAnwer.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\UserTextAnwer.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\UserTextAnwer.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\UserTextAnwer.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\UserTextAnwer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:53:30.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Group.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:28:55.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Student.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:41:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\User.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\User.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:38:23.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\TestResult.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\TestResult.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\TestResult.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\TestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:53:05.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAttemptAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\UserAttemptAnswer.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\UserAttemptAnswer.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\UserAttemptAnswer.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\UserAttemptAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:51:14.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Attempt.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Attempt.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Attempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:50:22.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Test.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Test.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:42:39.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Question.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:24:24.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Answer.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:50:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Direction.cs",
               "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Direction.cs",
               "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Direction.cs",
@@ -46,72 +236,32 @@
               "RelativeToolTip": "lesson2_17_09_25\\Models\\Direction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:55:39.995Z",
+              "WhenOpened": "2025-10-01T17:44:45.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GroupsController.cs",
-              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Controllers\\GroupsController.cs",
-              "RelativeDocumentMoniker": "lesson2_17_09_25\\Controllers\\GroupsController.cs",
-              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Controllers\\GroupsController.cs",
-              "RelativeToolTip": "lesson2_17_09_25\\Controllers\\GroupsController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAkAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Project.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:05:48.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Group.cs",
-              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Group.cs",
-              "RelativeToolTip": "lesson2_17_09_25\\Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:05:08.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "lesson2_17_09_25\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "lesson2_17_09_25\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T17:37:07.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T17:44:35.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Student.cs",
-              "RelativeToolTip": "lesson2_17_09_25\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:23:21.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\User.cs",
-              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\User.cs",
-              "RelativeToolTip": "lesson2_17_09_25\\Models\\User.cs",
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Models\\Course.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:08:53.806Z",
+              "WhenOpened": "2025-10-01T17:27:30.415Z",
               "EditorCaption": ""
             }
           ]

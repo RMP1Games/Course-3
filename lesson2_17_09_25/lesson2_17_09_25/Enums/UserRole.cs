@@ -1,4 +1,4 @@
-﻿namespace lesson2_17_09_25
+﻿namespace lesson2_17_09_25.Enums
 {
     public enum UserRole
     {

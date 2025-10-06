@@ -11,5 +11,8 @@ namespace lesson2_17_09_25.Models
         public int ProjectId { get; set; }
         public Project Project { get; set; }
         public List<Student> Students { get; set; }
+        public int CourseId { get; set; }
+        public Course Course { get; set; }
+        public List<Test> Tests { get; set; }
     }
 }
