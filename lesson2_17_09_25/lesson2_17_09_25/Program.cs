@@ -1,4 +1,4 @@
-using lesson2_17_09_25;
+using TestingPlatform.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
