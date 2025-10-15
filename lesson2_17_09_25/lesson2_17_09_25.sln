@@ -15,6 +15,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingPlatform.Infrastructure", "TestingPlatform.Infrastructure\TestingPlatform.Infrastructure.csproj", "{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4666F999-7DD2-4890-9D73-A0696708EC34} = {4666F999-7DD2-4890-9D73-A0696708EC34}
+		{4D9A27FD-89CB-4ED7-AD9C-8AA1E29DD9A3} = {4D9A27FD-89CB-4ED7-AD9C-8AA1E29DD9A3}
 	EndProjectSection
 EndProject
 Global
@@ -45,8 +46,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {07EF0015-BD12-40B3-A6E7-24B21668A0D0}
-	EndGlobalSection
-	GlobalSection(NDepend) = preSolution
-		Project = ".\lesson2_17_09_25.ndproj"
 	EndGlobalSection
 EndGlobal

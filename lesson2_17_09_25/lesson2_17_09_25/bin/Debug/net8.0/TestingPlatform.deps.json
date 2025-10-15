@@ -706,6 +706,17 @@
         }
       },
       "System.Threading.Channels/6.0.0": {},
+      "TestingPlatform.Application/1.0.0": {
+        "dependencies": {
+          "TestingPlatform.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TestingPlatform.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "TestingPlatform.Domain/1.0.0": {
         "runtime": {
           "TestingPlatform.Domain.dll": {
@@ -718,6 +729,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.20",
           "Microsoft.EntityFrameworkCore.Relational": "8.0.20",
+          "TestingPlatform.Application": "1.0.0",
           "TestingPlatform.Domain": "1.0.0"
         },
         "runtime": {
@@ -1084,6 +1096,11 @@
       "sha512": "sha512-TY8/9+tI0mNaUMgntOxxaq2ndTkdXqLSxvPmas7XEqOlv9lQtB7wLjYGd756lOaO7Dvb5r/WXhluM+0Xe87v5Q==",
       "path": "system.threading.channels/6.0.0",
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
+    },
+    "TestingPlatform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "TestingPlatform.Domain/1.0.0": {
       "type": "project",

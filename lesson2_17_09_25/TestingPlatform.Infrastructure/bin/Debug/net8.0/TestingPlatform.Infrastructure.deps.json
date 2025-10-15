@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.20",
           "Microsoft.EntityFrameworkCore.Relational": "8.0.20",
+          "TestingPlatform.Application": "1.0.0",
           "TestingPlatform.Domain": "1.0.0"
         },
         "runtime": {
@@ -151,6 +152,17 @@
           }
         }
       },
+      "TestingPlatform.Application/1.0.0": {
+        "dependencies": {
+          "TestingPlatform.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TestingPlatform.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "TestingPlatform.Domain/1.0.0": {
         "runtime": {
           "TestingPlatform.Domain.dll": {
@@ -257,6 +269,11 @@
       "sha512": "sha512-bXJEZrW9ny8vjMF1JV253WeLhpEVzFo1lyaZu1vQ4ZxWUlVvknZ/+ftFgVheLubb4eZPSwwxBeqS1JkCOjxd8g==",
       "path": "microsoft.extensions.primitives/8.0.0",
       "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    },
+    "TestingPlatform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "TestingPlatform.Domain/1.0.0": {
       "type": "project",

@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TestingPlatform.Application\TestingPlatform.Application.csproj" />
     <ProjectReference Include="..\TestingPlatform.Domain\TestingPlatform.Domain.csproj" />
   </ItemGroup>
 

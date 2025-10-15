@@ -10,3 +10,7 @@ C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.App
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\obj\Debug\net8.0\refint\TestingPlatform.Application.dll
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.pdb
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\obj\Debug\net8.0\ref\TestingPlatform.Application.dll
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\bin\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\bin\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\obj\Debug\net8.0\TestingPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Application\obj\Debug\net8.0\TestingP.70010D4C.Up2Date

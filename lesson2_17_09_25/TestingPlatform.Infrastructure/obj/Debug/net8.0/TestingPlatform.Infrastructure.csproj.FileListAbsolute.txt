@@ -14,3 +14,5 @@ C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Inf
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Infrastructure\obj\Debug\net8.0\refint\TestingPlatform.Infrastructure.dll
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.pdb
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Infrastructure\obj\Debug\net8.0\ref\TestingPlatform.Infrastructure.dll
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Application.dll
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\TestingPlatform.Infrastructure\bin\Debug\net8.0\TestingPlatform.Application.pdb

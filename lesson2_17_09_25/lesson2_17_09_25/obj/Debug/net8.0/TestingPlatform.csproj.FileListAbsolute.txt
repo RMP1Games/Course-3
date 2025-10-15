@@ -139,3 +139,5 @@ C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\lesson2_17_09_25\ob
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\lesson2_17_09_25\obj\Debug\net8.0\TestingPlatform.genruntimeconfig.cache
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\lesson2_17_09_25\obj\Debug\net8.0\ref\TestingPlatform.dll
 C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\lesson2_17_09_25\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\lesson2_17_09_25\bin\Debug\net8.0\TestingPlatform.Application.dll
+C:\Users\vitalik\Documents\backend\Course 3\lesson2_17_09_25\lesson2_17_09_25\bin\Debug\net8.0\TestingPlatform.Application.pdb

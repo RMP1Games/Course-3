@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\testingplatform.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\testingplatform.infrastructure\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\TestingPlatform.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\TestingPlatform.csproj|solutionrelative:lesson2_17_09_25\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9A27FD-89CB-4ED7-AD9C-8AA1E29DD9A3}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\testingplatform.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9A27FD-89CB-4ED7-AD9C-8AA1E29DD9A3}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9A27FD-89CB-4ED7-AD9C-8AA1E29DD9A3}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\testingplatform.application\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9A27FD-89CB-4ED7-AD9C-8AA1E29DD9A3}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\testingplatform.infrastructure\\testingplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C23B1F74-ECA9-4AE5-A315-28B68C45D39F}|TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj|solutionrelative:testingplatform.infrastructure\\testingplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\TestingPlatform.csproj|c:\\users\\vitalik\\documents\\backend\\course 3\\lesson2_17_09_25\\lesson2_17_09_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2866D914-5DCF-43C8-81C1-4B98D713F83B}|lesson2_17_09_25\\TestingPlatform.csproj|solutionrelative:lesson2_17_09_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,15 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044005}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:18:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs*",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\UserRepository.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:17:43.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\Repositories\\GroupRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:14:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "lesson2_17_09_25\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "lesson2_17_09_25\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:17:57.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Application\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Application\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:13:06.522Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "TestingPlatform.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
+              "RelativeToolTip": "TestingPlatform.Infrastructure\\TestingPlatform.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-13T17:11:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vitalik\\Documents\\backend\\Course 3\\lesson2_17_09_25\\lesson2_17_09_25\\Program.cs",
               "RelativeDocumentMoniker": "lesson2_17_09_25\\Program.cs",
@@ -30,8 +135,7 @@
               "RelativeToolTip": "lesson2_17_09_25\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwBYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T17:59:32.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T17:59:32.344Z"
             }
           ]
         }
